@@ -7,7 +7,7 @@ package Package1;
  * </ol>
  * @author MARIO
  * @version 1.0
- * @created 22-nov.-2022 03:32:36 p. m.
+ * @updated 22-nov.-2022 04:01:41 p. m.
  */
 public class Factura {
 
